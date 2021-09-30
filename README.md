@@ -1,6 +1,20 @@
+<h1 align="center">Training P4 without code</h1>
 
-# P4 Tutorial
+<h3 align="center">
+    🔗 P4
+</h3>
+<p align="center">🚀 </p>
 
+<h4 align="center"> 
+	🚧 🚀 Training P4  🚧
+</h4>
+
+
+
+
+
+<h2 align="center"> </h2> 
+<p>
 Primeiramente, sejam muito bem-vindos ao minicurso "Conheça o P4, o futuro das redes"!
 
 Foram preparados 3 exercícios que nos auxiliarão no processo de aprendizagem da linguagem P4, a saber:
@@ -25,3 +39,26 @@ Pronto! Já podemos começar o desenvolvimento em P4!
 
 
 *Observações importantes: A IDE empregada será o Atom, disponível na área de trabalho da VM.
+
+</p>
+
+<br><br>
+
+<h2 align="center"> ### Autor</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/pedro-eduardo-camera/">
+ <img style="border-radius: 50%;" src="https://github.com/PedroEduardo68.png" width="100px;" alt="Pedro Eduardo Camera"/><br> 
+ </a> 
+ <br /> 
+ Feito por <a href="https://www.linkedin.com/in/pedro-eduardo-camera/" title="Pedro Eduardo Camera">🚀🚀Pedro Eduardo Camera </a><br />
+👋🏽 Entre em contato! <br />
+
+</p>
+
+
+
+
+
+
+
