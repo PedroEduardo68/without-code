@@ -47,9 +47,7 @@ Pronto! Já podemos começar o desenvolvimento em P4!
 <h2 align="center"> ### Autor</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/pedro-eduardo-camera/">
- <img style="border-radius: 50%;" src="https://github.com/PedroEduardo68.png" width="100px;" alt="Pedro Eduardo Camera"/><br> 
- </a> 
+
  <br /> 
  Feito por <a href="https://www.linkedin.com/in/pedro-eduardo-camera/" title="Pedro Eduardo Camera">🚀🚀Pedro Eduardo Camera </a><br />
 👋🏽 Entre em contato! <br />
